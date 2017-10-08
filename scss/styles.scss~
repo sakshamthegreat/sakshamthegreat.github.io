@@ -44,7 +44,7 @@ $background-alt: #f2f2f5;
 $border: #dcd9d9;
 
 // Define text colors
-$heading: #d5000F;
+$heading: #FFFFFF;
 $text: #D50000;
 
 /*
@@ -167,7 +167,7 @@ header {
 
     a {
         display: block;
-        color: #d50000;
+        color: $base-color;
         padding: 10px;
 
         &:hover {
@@ -463,6 +463,7 @@ footer {
     ----- 6. Experience Styles -----
     --------------------------------
 */
+
 #experience {
     padding: 50px 15px;
     text-align: center;
