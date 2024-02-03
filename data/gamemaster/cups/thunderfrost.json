@@ -1,0 +1,64 @@
+{
+  "name": "thunderfrost",
+  "title": "Toxic Thunderfrost",
+  "include": [
+    {
+      "filterType": "type",
+      "name": "Type",
+      "values": [
+        "bug",
+        "electric",
+        "ice",
+        "poison"
+      ]
+    },
+    {
+      "filterType": "id",
+      "name": "Species",
+      "values": [
+        "meganium",
+        "raticate_alolan",
+        "raticate_alolan_shadow",
+        "perrserker",
+        "palossand",
+        "seismitoad",
+        "lurantis",
+        "guzzlord",
+        "oinkologne_female",
+        "farfetchd_galarian",
+        "munchlax",
+        "sandslash",
+        "sandslash_shadow",
+        "roserade",
+        "amoongus",
+        "amoongus_shadow",
+        "meganium"
+      ]
+    }
+  ],
+  "exclude": [
+    {
+      "filterType": "id",
+      "name": "Species",
+      "values": [
+        "dewgong",
+        "victreebel",
+        "victreebel_shadow",
+        "ninetales_alolan",
+        "ninetales_alolan_shadow",
+        "sandslash_alolan",
+        "sandslash_alolan_shadow",
+        "clodsire",
+        "lanturn",
+        ""
+      ]
+    },
+    {
+      "filterType": "tag",
+      "name": "Tag",
+      "values": [
+        "mega"
+      ]
+    }
+  ]
+}

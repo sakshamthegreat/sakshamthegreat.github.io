@@ -1,0 +1,156 @@
+[
+	{
+		"title": "Master League (Classic)",
+		"cup": "classic",
+		"cp": 10000,
+		"meta": "master",
+		"showCup": false,
+		"showFormat": true,
+		"showMeta": false,
+		"hideRankings": true
+	},
+	{
+		"title": "ML Overused",
+		"cup": "overused",
+		"cp": 10000,
+		"meta": "overused",
+		"showCup": false,
+		"showFormat": false,
+		"showMeta": true
+	},
+{
+	"title": "Toxic Thunderfrost",
+	"cup": "thunderfrost",
+	"cp": 1500,
+	"meta": "thunderfrost",
+	"showCup": true,
+	"showFormat": true,
+	"showMeta": true
+},
+	{
+		"title": "Ultra Premier",
+		"cup": "premier",
+		"cp": 2500,
+		"meta": "premierultra",
+		"showCup": false,
+		"showFormat": false,
+		"showMeta": true
+	},
+	{
+		"title": "Master League (Megas)",
+		"cup": "mega",
+		"cp": 10000,
+		"meta": "mastermega",
+		"showCup": false,
+		"showFormat": false,
+		"showMeta": true
+	},
+	{
+		"title": "Master Premier",
+		"cup": "premier",
+		"cp": 10000,
+		"meta": "premiermaster",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "Hisui Cup",
+		"cup": "hisui",
+		"cp": 1500,
+		"meta": "hisui",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "Evolution Cup",
+		"cup": "evolution",
+		"cp": 1500,
+		"meta": "evolution",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
+		"title": "P!P Championship Series",
+		"cup": "great",
+		"cp": 1500,
+		"meta": "championshipseries",
+		"showCup": false,
+		"showFormat": false,
+		"showMeta": true
+	},
+	{
+		"title": "Battle Frontier (Enchanted)",
+		"cup": "enchanted",
+		"cp": 2500,
+		"meta": "enchanted",
+		"showCup": false,
+		"showFormat": false,
+		"showMeta": false
+	},
+	{
+        "title": "Battle Frontier (Primordial)",
+        "cup": "primordial",
+        "cp": 1500,
+        "meta": "primordial",
+	"showCup": false,
+	"showFormat": false,
+	"showMeta": false
+    },
+	{
+        "title": "Battle Frontier (Serene)",
+        "cup": "serene",
+        "cp": 1500,
+        "meta": "serene",
+	"showCup": false,
+	"showFormat": false,
+	"showMeta": false
+    },
+	{
+		"title": "Battle Frontier (Great)",
+		"cup": "battlefrontiergreat",
+		"cp": 1500,
+		"meta": "great",
+		"showCup": true,
+		"showFormat": false,
+		"showMeta": false
+	},
+	{
+		"title": "Battle Frontier (Master)",
+		"cup": "battlefrontiermaster",
+		"cp": 10000,
+		"meta": "battlefrontiermaster",
+		"showCup": false,
+		"showFormat": false,
+		"showMeta": false
+	},
+	{
+        "title": "Devon Knockout Cup",
+        "cup": "knockout",
+        "cp": 1500,
+        "meta": "knockout",
+        "showCup": true,
+        "showFormat": true,
+        "showMeta": true
+    },
+	{
+        "title": "Devon Sovereign Cup",
+        "cup": "sovereign",
+        "cp": 1500,
+        "meta": "sovereign",
+        "showCup": true,
+        "showFormat": true,
+        "showMeta": true
+    },
+	{
+		"title": "Custom",
+		"cup": "custom",
+		"cp": 1500,
+		"meta": "great",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": false
+	}
+]
